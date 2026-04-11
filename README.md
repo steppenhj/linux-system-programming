@@ -1,6 +1,6 @@
 # linux-system-programming
 
-Linux 환경에서 시스템 프로그래밍 학습 기록
+Linux 환경, 시스템 프로그래밍 학습 기록
 
 ## Environment
 - OS: Ubuntu 20.04
